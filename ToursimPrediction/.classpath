@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="H:/jars/activation.jar"/>
+	<classpathentry kind="lib" path="H:/jars/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="H:/jars/commons-io-2.3.jar"/>
+	<classpathentry kind="lib" path="H:/jars/jsp-api.jar"/>
+	<classpathentry kind="lib" path="H:/jars/jstl.jar"/>
+	<classpathentry kind="lib" path="H:/jars/mail.jar"/>
+	<classpathentry kind="lib" path="H:/jars/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="H:/jars/mysql-connector-java-5.0.4-bin.jar"/>
+	<classpathentry kind="lib" path="H:/jars/ojdbc5.jar"/>
+	<classpathentry kind="lib" path="H:/jars/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="H:/jars/ojdbc6_g.jar"/>
+	<classpathentry kind="lib" path="H:/jars/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="H:/jars/servlet-api.jar" sourcepath="E:/jars/servlet-api-2.5-sources.jar"/>
+	<classpathentry kind="lib" path="H:/jars/standard.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
